@@ -29,3 +29,34 @@ The main findings of the code can be found at the blog available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at Stack overflow link available [here](https://insights.stackoverflow.com/survey).
+
+## Files
+```
+C:.
+|   EDA.ipynb
+|   output.doc
+|   poetry.lock
+|   pyproject.toml
+|   README.md
+|   so_survey_2021.pdf
+|   survey_results_public.csv
+|   survey_results_public_2020.csv
+|   survey_results_schema.csv
+|   
++---.ipynb_checkpoints
+|       EDA-checkpoint.ipynb
+|       
+\---.venv
+    |   .gitignore
+    |   pyvenv.cfg
+    |   
+    +---etc
+    |   \---jupyter
+    |       \---nbconfig
+    |           \---notebook.d
+    |                   jupyterlab-plotly.json
+    |                   widgetsnbextension.json
+    |                   
+    
+
+```
